@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "portfolio-main/package.json",
+      "src": "portfolio-main/next.config.js",
       "use": "@vercel/next"
     }
   ],
